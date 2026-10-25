@@ -1,0 +1,12 @@
+# local settings and secrets
+config.json
+config.json.tmp
+ha_token.txt
+tls/
+
+# data and runtime files
+*.db
+*.db-journal
+logger.log
+logger.pid
+__pycache__/
